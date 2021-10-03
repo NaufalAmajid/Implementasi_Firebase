@@ -2,7 +2,7 @@
 <br>
   <h2>Firebase Versi 8.3.0</h2>
 <br>
-<h3>File Build StandAlone ada di <a href = "https://github.com/NaufalAmajid/Implementasi_Firebase_Sederhana/releases/tag/v1.0">Release</a> --> Incremental Game(Storage).zip </h3>
+<h3>File Build StandAlone ada di <a href = "https://github.com/NaufalAmajid/Implementasi_Firebase/releases/tag/0.1">Release</a> --> Incremental Game(Storage).zip </h3>
 <h5>
   <ol>
     <li>File 'Local Storage.apk' </li>
