@@ -1,7 +1,7 @@
 # Tugas Chapter 8 - Implementasi Firebase Sederhana
 <br>
   <h2>Firebase Versi 8.3.0</h2>
-  <h2> Email : naufalamajid@gmail.com </h2>
+  <h2> <a href="naufalamajid@gmail.com">Email : naufalamajid@gmail.com</a> </h2>
 <br>
 <h3>File Build StandAlone ada di <a href = "https://github.com/NaufalAmajid/Implementasi_Firebase/releases/tag/0.1">Release</a> --> Incremental Game(Storage).zip </h3>
 <h5>
